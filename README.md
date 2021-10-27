@@ -1,24 +1,11 @@
-# automation-bdd-google
+Test Automation menggunakan Cucumber Selenium Java
 
-Hi Perkenalkan Namaku Wisnu Munawar,
-<p>Kali ini saya akan memberikan tutorial Test Automation menggunakan Cucumber Selenium Java</p>
-<p> Linkedin : <a href=https://www.linkedin.com/in/wisnuwm>Click Here</a> </p>
-  
-**Tools** :
-  - Java 15
-  - IntelliJ IDEA
-  - Plugin "Cucumber for java" dan "Gherkin"
-  - Chromedriver untuk OS masing2
 
-**Berikut adalah langkah2 nya :**
+**Berikut tahapannya :**
 
-1. Buat Project pada IDE, disini saya menggunakan IntelliJ (https://www.jetbrains.com/idea/download/)
-<img width="821" alt="Screen Shot 2021-10-23 at 14 42 25" src="https://user-images.githubusercontent.com/54229493/138548508-a77fcfa7-5726-4068-b4bb-45eb283d4ecf.png">
-<img width="811" alt="Screen Shot 2021-10-23 at 14 42 46" src="https://user-images.githubusercontent.com/54229493/138548517-89d5debc-13db-4530-b993-c47b052deaed.png">
+1. Buat Project pada IDE
 
 2. Install Plugin ini "Cucumber for Java" dan "Gherkin"
-
-<img width="989" alt="Screen Shot 2021-10-23 at 14 45 34" src="https://user-images.githubusercontent.com/54229493/138548657-8d0320a9-af22-4bc0-b2af-192da322c7f9.png">
 
 3. Buka pom.xml dan add dependency ini
 ```
